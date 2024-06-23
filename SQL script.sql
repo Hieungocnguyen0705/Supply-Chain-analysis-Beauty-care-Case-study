@@ -81,9 +81,6 @@ Order by AverageCostbyRoutes
 
 -- # 3 Inventory Analysis
 
--- > Total of each cost:
-
-
 -- StockoutRate by SKU
 
 
@@ -123,6 +120,6 @@ Order by sum(`Order quantities`) DESC
 -- > Supplier 1 takes care of highest skincare OrderQuantity
 
 
--- > SOLUTION 1: SAFETY STOCK PLANNING
+
 
 			
